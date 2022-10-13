@@ -1,5 +1,5 @@
 .bgimage {
-    height: 100vh;
+    height: 167vh;
     background: url('images/hero.JPG');
     background-size: cover;
     position: relative;
@@ -32,14 +32,14 @@
     cursor: pointer;
 }
 .fa-facebook:hover,.fa-instagram:hover,.fa-twitter:hover,.fa-linkedin:hover, .fa-twitch:hover {
-    color: #008000;
+    color: #000800;
 }
 .fab {
     color: #000000;
 }
 /* footer styling */
 #footer {
-    background-color: #808080;
+    background-color: #000000;
     display: block;
     position:fixed;
 }
